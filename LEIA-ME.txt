@@ -1,0 +1,17 @@
+PORTAL DE ESTUDOS - COMO PUBLICAR NO GITHUB PAGES
+
+1. Crie um repositório no GitHub.
+2. Envie o arquivo index.html para a raiz do repositório.
+3. Abra Settings > Pages.
+4. Em Build and deployment, selecione Deploy from a branch.
+5. Escolha a branch main e a pasta / (root).
+6. Salve e aguarde o endereço do site.
+
+IMPORTANTE SOBRE ALTERAÇÕES
+O GitHub Pages é uma hospedagem estática e não recebe automaticamente dados salvos no navegador.
+Depois de adicionar questões, matérias ou links, clique em "Baixar INDEX atualizado".
+Esse botão gera um novo index-atualizado.html com os dados incorporados.
+Renomeie para index.html e substitua o arquivo no GitHub para publicar a nova versão.
+
+Se apenas compartilhar o index-atualizado.html, a outra pessoa abrirá os dados já incorporados.
+Links de PDFs devem permitir acesso à pessoa que receber o portal.
